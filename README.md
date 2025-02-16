@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bm1905
 
-- 👀 Bijay Maharjan welcomes you!!! Explore my inner me.
+- 👀 Bijay Maharjan welcomes you!!! Explore!!!
 
 ```bash
 !(writes_spaghetti_code)
